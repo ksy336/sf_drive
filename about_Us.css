@@ -1,0 +1,64 @@
+﻿.info {
+    text-align: right;
+}
+.about {
+    text-align: left;
+}
+
+button {
+    float: right;
+}
+.icon {
+    text-align: left;
+}
+
+#image {
+    position: relative;
+    width: 397px;
+    height: 300px;
+    left: 522px;
+    top: 170px;
+}
+
+.about_us {
+    position: relative;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 120%;
+    text-align: center;
+    color: #1B1B1B;
+}
+
+p {
+    Text Style: Text L Font family: Roboto Font style: Regular Font size: 24px Line height: 35px Line height: 147% Align: Center Vertical align: Top Fill Color Style: Black Fill: Solid #1B1B1B
+}
+
+.contacts {
+    background: #F7F9FB;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 120%;
+    text-align: center;
+    color: #1B1B1B;
+}
+h3 {
+    text-align: center;
+}
+
+.round {
+    border-radius: 100 px;
+    margin: 10 px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #a3a3a0;
+    padding-top: 10 px;
+    padding-top: 10 px;
+    color: #f2f2ed;
+    text-align: center;
+}
